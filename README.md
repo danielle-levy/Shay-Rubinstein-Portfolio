@@ -1,0 +1,3 @@
+# Shay-Rubinstein-Portfolio
+Independent project - building a portfolio for Shay Rubinstein in HTML, CSS, JavaScript and more...
+![](https://i.imgur.com/I8UrMom.png)
