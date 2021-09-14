@@ -1,0 +1,8 @@
+{
+  "name": "Shay-Rubinstein-Portfolio",
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

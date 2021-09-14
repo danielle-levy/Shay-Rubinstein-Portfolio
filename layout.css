@@ -1,0 +1,26 @@
+html {
+    margin: 30px;
+    display: flex;
+    width: 80%;
+    text-align: center;
+    font-family: cabin, avenir, montserratregular,'Comfortaa', cursive;
+
+    font-size: 12px;
+}
+
+body {
+    float: left;
+    padding-left: 150px;
+    padding-right: 150px;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    display: flex;
+    width: 80%;
+    text-align: justify;
+    /*justify-content: center;*/
+    /*align-items: center;*/
+}
